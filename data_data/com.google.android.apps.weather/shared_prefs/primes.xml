@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
-<map>
-    <string name="primes.battery.snapshot">AQqrAwiio+ENELXLgAEY68i5DSCA8VgyEAgCENsfGgkJR7qChWTOBbsyEAgBEPEDGgkJxWrEpp7v&#10;IbEyDwgCEAAaCQnNyUq5A0M6KjIPCAIQBBoJCcF5RusfcekUUhAIAhD5bhoJCU39RZ3vjowRci0I&#10;phMQ8gcwvtQEOiESH2NvbS5nb29nbGUuYW5kcm9pZC5hcHBzLndlYXRoZXJ6wgEKOBAFGjQSMmNv&#10;bS5nb29nbGUuYW5kcm9pZC5hcHBzLndlYXRoZXIuYXBpLnNlcnZlci5TZXJ2aWNlCj4QAho6Ejhh&#10;bmRyb2lkeC53b3JrLmltcGwuYmFja2dyb3VuZC5zeXN0ZW1qb2IuU3lzdGVtSm9iU2VydmljZRIj&#10;CAISHxIdKndhbGFybSo6RnVzZWRMb2NhdGlvbjpleHBpcmUaIRIfY29tLmdvb2dsZS5hbmRyb2lk&#10;LmFwcHMud2VhdGhlcogBAaICBggCEPreBbICBggCEIPfBcICBggBEM+4FtICBQgEEMxx2gIHCAUQ&#10;hJrEDZADtt4VmAP6hALAA4MDyAPOAfADx7gD+APCogEQ/MSxFxiOtvzQpDIgr/7VtgIpu1nLiv//&#10;//8wAQ==&#10;    </string>
-    <long name="primes.packageMetric.lastSendTime" value="48675624" />
-    <long name="lastExitTimestamp" value="1727920272714" />
-    <string name="lastExitProcessName">com.google.android.apps.weather</string>
-</map>
